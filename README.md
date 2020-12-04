@@ -1,7 +1,16 @@
 <h1 align="center"> <i> AUTO - SPAMER </i> </h1>
-<p align="center">
-  <img src="https://i.postimg.cc/xd0LkCgn/logo.png" alt="autospamer python tool">
-</p>
+<h1 align="center">
+
+```
+  ▄▄▄· ▄• ▄▌▄▄▄▄▄      ▄▄▌ ▐ ▄▌ ▄▄▄· ▄▄▄  ·▄▄▄▄  
+  █ ▀█ █▪██▌•██  ▪     ██· █▌▐█▐█ ▀█ ▀▄ █·██▪ ██ 
+  ▄█▀▀█ █▌▐█▌ ▐█.▪ ▄█▀▄ ██▪▐█▐▐▌▄█▀▀█ ▐▀▀▄ ▐█· ▐█▌
+  ▐█ ▪▐▌▐█▄█▌ ▐█▌·▐█▌.▐▌▐█▌██▐█▌▐█ ▪▐▌▐█•█▌██. ██ 
+  ▀  ▀  ▀▀▀  ▀▀▀  ▀█▄▀▪ ▀▀▀▀ ▀▪ ▀  ▀ .▀  ▀▀▀▀▀▀• 
+    Made for @ByDog3r
+```
+
+</h1>
 <hr>
 
 [![autor]][baidog]
