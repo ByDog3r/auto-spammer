@@ -7,7 +7,7 @@
   ▄█▀▀█ █▌▐█▌ ▐█.▪ ▄█▀▄ ██▪▐█▐▐▌▄█▀▀█ ▐▀▀▄ ▐█· ▐█▌
   ▐█ ▪▐▌▐█▄█▌ ▐█▌·▐█▌.▐▌▐█▌██▐█▌▐█ ▪▐▌▐█•█▌██. ██ 
   ▀  ▀  ▀▀▀  ▀▀▀  ▀█▄▀▪ ▀▀▀▀ ▀▪ ▀  ▀ .▀  ▀▀▀▀▀▀• 
-    Made for @ByDog3r
+  Made for @ByDog3r
 ```
 
 </h1>
@@ -18,12 +18,12 @@
 
 ## Auto-Spamer installation
 
-> Download   ZIP or clone repository
+> autospamer.py
 
 ```python
-> git clone https://github.com/ByDog3r/auto-spamer
+> git clone https://github.com/ByDog3r/auto-spammer
 
-> cd azathot
+> cd auto-spammer
 
 > pip install -r requirements.txt
 
@@ -31,9 +31,6 @@
 
 > python autospamer.py
 ```
-
-
-> autospamer.py
 
 
 <h1 align="center"> ENJOY! </h1><br>
