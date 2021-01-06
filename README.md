@@ -1,63 +1,57 @@
-<h1 align="center"> <i> AUTO - SPAMER </i> </h1>
-<h1 align="center">
+<p align="center">
+<img src="https://i.postimg.cc/ZqrCzLhF/autoward.png" title="AUTOWARD V.1" width="350" height="350">
+</p>
+
+<p align="center">
+<a href="https://github.com/ByDog3r"><img title="Autor" src="https://img.shields.io/badge/Author-@ByDog3r-blue?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Version" src="https://img.shields.io/badge/Version-1.0.1-red?style=for-the-badge&logo="></a>
+</p>
+
+<p align="center">
+<a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux%20&%20+Win7-orange?style=for-the-badge&logo=windows"></a>
+</p>
+
+
+## INSTALL: 
+
+```bash
+
+# In directory where we want to clone the git:
+$ git clone https://github.com/ByDog3r/auto-spammer
+
+# Enter directory that makes:
+$ cd auto-spammer
+
+# we give execution permissions:
+$ chmod +x autospamer.py
+
+# Install Dependencies
+$ pip install -r requirements.txt
+
+# Finally execute the script:
+
+# Linux and Win
+$ python autospamer.py
 
 ```
-  ▄▄▄· ▄• ▄▌▄▄▄▄▄      ▄▄▌ ▐ ▄▌ ▄▄▄· ▄▄▄  ·▄▄▄▄  
-  █ ▀█ █▪██▌•██  ▪     ██· █▌▐█▐█ ▀█ ▀▄ █·██▪ ██ 
-  ▄█▀▀█ █▌▐█▌ ▐█.▪ ▄█▀▄ ██▪▐█▐▐▌▄█▀▀█ ▐▀▀▄ ▐█· ▐█▌
-  ▐█ ▪▐▌▐█▄█▌ ▐█▌·▐█▌.▐▌▐█▌██▐█▌▐█ ▪▐▌▐█•█▌██. ██ 
-  ▀  ▀  ▀▀▀  ▀▀▀  ▀█▄▀▪ ▀▀▀▀ ▀▪ ▀  ▀ .▀  ▀▀▀▀▀▀• 
-  Made for @ByDog3r
-```
 
-</h1>
-<hr>
+## DOCUMENTATION:
 
-[![autor]][baidog]
-
-
-## Auto-Spamer installation
-
-> autospamer.py
-
-```python
-> git clone https://github.com/ByDog3r/auto-spammer
-
-> cd auto-spammer
-
-> pip install -r requirements.txt
-
-> chmod +x autospamer.py
-
-> python autospamer.py
-```
+|                Registri                   |                 data                   |
+|-------------------------------------------| ---------------------------------------| 
+|                    WIKI                   |https://github.com/ByDog3r/Auto-Spammer/wiki |
+|                                           |                                        |
+|                 DEPENDENCES               |                  python                |
+|                                           |                 pyautogui              |
+|                                           |            Internet Connection         |
+|                                           |                                        |
+|                  TOOL                     |                VERSION                 |
+|         AutoWard                          |                 1.0.1                  |
 
 
-<h1 align="center"> ENJOY! </h1><br>
+<h2 align="center"> Screenshots: </h2>
 
-
-<h1 align="center">
-  <img src="https://i.postimg.cc/SQv0DYz1/2.png" alt="PREVIEW">
-  <br>
-</p>
-
-<h1 align="center"> Whatsapp WEB!<br>
-  <img src="https://i.postimg.cc/C1r2P9dn/whats.png" alt="PREVIEW">
-  <br>
-</p>
-
-<p align="center"> Messenger!<br>
-  <img src="https://i.postimg.cc/0NgxTFQh/messenger.png" alt="PREVIEW">
-  <br>
-</p>
-
-<p align="center"> Facebook Posts!<br>
-  <img src="https://i.postimg.cc/Pr35RS1k/3.png" alt="PREVIEW">
-  <br>
-</p>
-
-
-<!-- MarkDown Links & Images -->
-[autor]: https://img.shields.io/badge/Author%3A-%40ByDog3r-blueviolet "Autor."
-[baidog]: https://github.com/ByDog3r
+|  AUTOWARD      |       INSTAGRAM        |	   MESSENGER     |
+| -------------- | ---------------------- | ---------------- |  
+|![autoward](https://i.postimg.cc/SQv0DYz1/2.png")|![WHATSAPP](https://i.postimg.cc/C1r2P9dn/whats.png")|![MESSENGER](https://i.postimg.cc/0NgxTFQh/messenger.png)|
 
