@@ -1,6 +1,6 @@
 pyautogui
 MouseInfo==0.1.3
-Pillow==8.0.1
+Pillow==8.2.0
 PyAutoGUI==0.9.52
 PyGetWindow==0.0.9
 PyMsgBox==1.0.9
